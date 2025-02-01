@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SasikiranBandaru</h1>
-<h3 align="center">I am a Frontend Development enthusiast with knowledge in C, C++, Python, HTML, CSS, and JavaScript fundamentals. My journey includes mastering Frontend technologies, exploring cloud technologies like AWS S3, and gaining experience in AIoT (Artificial Intelligence of Things) solutions.</h3>
+<h3 align="center">I am a Frontend Development enthusiast with knowledge in C, C++, Python, HTML, CSS, and JavaScript fundamentals. My journey includes mastering Frontend technologies, exploring cloud technologies , and gaining experience in AIoT (Artificial Intelligence of Things) solutions.</h3>
 
 - 🌱 I’m currently learning **Fullstack,javascript ,angular.**
 
