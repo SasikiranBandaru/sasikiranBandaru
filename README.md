@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sasikiran@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10SqAY5Fw-jLP83_A-5eH2-5ravwq3iKk/view?usp=sharing](https://drive.google.com/file/d/10SqAY5Fw-jLP83_A-5eH2-5ravwq3iKk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1pP7uG3RZaxZcatNyozqF259KJaW5z_Ar?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
